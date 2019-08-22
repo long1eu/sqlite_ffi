@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example/dart_example/dart_example.iml" filepath="$PROJECT_DIR$/example/dart_example/dart_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/flutter_example/flutter_example.iml" filepath="$PROJECT_DIR$/example/flutter_example/flutter_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite_ffi.iml" filepath="$PROJECT_DIR$/sqlite_ffi.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+name: flutter_example
+description: A new Flutter project.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  path_provider: any
+
+  sqlite_ffi:
+    path: ../../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
